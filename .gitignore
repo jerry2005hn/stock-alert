@@ -1,0 +1,14 @@
+# Secrets & local config
+.env
+config.json
+
+# Runtime state
+watchlist.json
+watchlist.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
